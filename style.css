@@ -9,11 +9,15 @@ button{
   background-color:#805215;
   color:white
 }
+
+.white-containers {
+  background-color:white
+  height:200
+  width: 100
+}
 .background{
   background-color: #D4A76A
 }
-
-
 
 
 /*COLORS:
