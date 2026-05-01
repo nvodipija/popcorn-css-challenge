@@ -1,10 +1,16 @@
+#heading{
+ #553100  
+}
 .header_container {
   width: 1000px;
-  height: 200px;
+  height: 100px;
   background-color: #FFDBAA;}
-
 button{
   background-color:#805215;
+  color:white
+}
+.background{
+  background-color: #D4A76A
 }
 
 
